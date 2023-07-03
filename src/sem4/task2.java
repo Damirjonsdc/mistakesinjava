@@ -1,5 +1,9 @@
+package sem4;
+
 import java.util.LinkedList;
-public class homeworktask1 {
+
+public class task2 {
+
 
         public static void main(String[] args) {
             LinkedList<Integer> linkedList = new LinkedList<>();
